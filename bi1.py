@@ -5,6 +5,7 @@ import time
 
 ua = UserAgent()
 
+
 def Download(url, path):
     ''' Download the movie '''
     size = 0
@@ -19,7 +20,7 @@ def Download(url, path):
     # mo ni user internet explorer
     # movie ---> data stream
     #print('>>>for debug: The url is',url)
-    response = requests.get(url, headers=headers,stream=True)
+    response = requests.get(url, headers=headers, stream=True)
 
     # data size each download and total size
     chunk_size = 1024
@@ -29,28 +30,26 @@ def Download(url, path):
     #print('>>>>for debug: content_size = ',content_size)
 
     if response.status_code == 200:
-        print('[文件大小]:{}MB'.format(round((content_size / chunk_size/ 1024),2)))
-        with open(path,'wb') as file:
+        print('[文件大小]:{}MB'.format(round((content_size / chunk_size / 1024), 2)))
+        with open(path, 'wb') as file:
             for data in response.iter_content(chunk_size=chunk_size):
                 file.write(data)
                 size += len(data)
                 print('\r'+'[下载进度]:{}{}%'.format(">"*int(size * 50 /
-                                                         content_size), round(float(size/content_size * 100),2)), end=' ')
+                                                         content_size), round(float(size/content_size * 100), 2)), end=' ')
         end = time.time()
         print('\n' + '视频下载完成!用时: {}s'.format(end - start))
 
 
-
 def The_url(page):
-    url = 'http://api.vc.bilibili.com/board/v1/ranking/top?page_size=10&next_offset=' + str(page) + '&tag=%E4%BB%8A%E6%97%A5%E7%83%AD%E9%97%A8&platform=pc'
-    
+    url = 'http://api.vc.bilibili.com/board/v1/ranking/top?page_size=10&next_offset=' + \
+        str(page) + '&tag=%E4%BB%8A%E6%97%A5%E7%83%AD%E9%97%A8&platform=pc'
 
     headers = {
         'User-Agent': ua.random
     }
 
-
-    request = requests.get(url,headers=headers).json()
+    request = requests.get(url, headers=headers).json()
 
     item = request.get('data').get('items')
     for i in item:
@@ -72,14 +71,8 @@ def The_url(page):
             Download(Video_Downloads, path='{}.mp4'.format(Video_name))
         except Exception as e:
             pass
-        
 
 
-for r in range(0,100):
+for r in range(0, 100):
     r = r * 10 + 1
     The_url(r)
-#print (request)
-#a = 'http://www.bilibili.com/video/av40046110'
-#s = requests.get(a).content()
-#fp = open ('a.mp4','wb') 
-#fp.write(s)
