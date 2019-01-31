@@ -59,13 +59,13 @@ def The_url(page):
         Video_name = ite.get('description')
         #print(Video_name)
 
-        Release_time = ite.get('upload_time')
+        #Release_time = ite.get('upload_time')
         #print(Release_time)
 
         Video_Downloads = ite.get('video_playurl')
         #print(Video_Downloads)
 
-        The_name = i.get('user').get('name')
+        #The_name = i.get('user').get('name')
         #print(The_name)
         try:
             print('当前下载的是;{}%'.format(Video_name))
