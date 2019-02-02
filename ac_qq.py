@@ -1,6 +1,6 @@
 import requests
 import json
-import lxml
+from lxml import etree
 from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
 ua = UserAgent()
@@ -10,10 +10,10 @@ headers = {
 }
 url = 'https://ac.qq.com/ComicView/index/id/505430/cid/928'
 
-sc = requests.get(url,headers=headers).json()
+sc = requests.get(url)
+html = etree.HTML(sc.text)
 
-a = json.loads(sc)
-print(a)
+print(html)
 
 #soup = BeautifulSoup(sc.text,'lxml')
 #with open('soup.txt','w') as file:
