@@ -11,21 +11,21 @@ conn = sqlite3.connect('food.db')
 curs = conn.cursor()
 
 curs.execute('''
-CREATE TABLE food (
-    id TEXT PRIMARY KEY,
-    desc    TEXT,
-    water   FLOAT,
-    kcal    FLOAT,
-    protein FLOAT,
-    fat     FLOAT,
-    ash     FLOAT,
-    carbs   FLOAT,
-    fiber   FLOAT,
-    suger   FLOAT
+    CREATE TABLE food (
+        id TEXT PRIMARY KEY,
+        desc    TEXT,
+        water   FLOAT,
+        kcal    FLOAT,
+        protein FLOAT,
+        fat     FLOAT,
+        ash     FLOAT,
+        carbs   FLOAT,
+        fiber   FLOAT,
+        suger   FLOAT
 )
 ''')
 
-query = 'INSERT INTO food VALUES (?,?,?,?,?,?,?,?,?,?)'
+query = r'INSERT INTO food VALUES (?,?,?,?,?,?,?,?,?,?)'
 field_count = 10
 for line in open('ABBREV.txt'):
     fields = line.split('^')
