@@ -12,7 +12,7 @@ curs = conn.cursor()
 
 curs.execute('''
     CREATE TABLE food (
-        id TEXT PRIMARY KEY,
+        id      TEXT PRIMARY KEY,
         desc    TEXT,
         water   FLOAT,
         kcal    FLOAT,
@@ -21,16 +21,17 @@ curs.execute('''
         ash     FLOAT,
         carbs   FLOAT,
         fiber   FLOAT,
-        suger   FLOAT
+        sugar   FLOAT
 )
 ''')
 
-query = r'INSERT INTO food VALUES (?,?,?,?,?,?,?,?,?,?)'
+query = 'INSERT INTO food VALUES (?,?,?,?,?,?,?,?,?,?)'
 field_count = 10
+
 for line in open('ABBREV.txt'):
     fields = line.split('^')
-    vals = [convert(f) for f in fields[:field_count]]
-    print(fields)
+    vals = [convert(f) for f in fields[0:10]]
+    #print(fields)
     curs.execute(query,vals)
 
 conn.commit()
