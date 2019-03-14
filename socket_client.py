@@ -5,4 +5,4 @@ host = socket.gethostname()
 port = 1234
 
 s.connect((host, port))
-print(s.recv(1024))
+print(s.recv(1024).decode())
