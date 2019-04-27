@@ -12,7 +12,7 @@ endobj
 endobj
 3 0 obj
 <<
-/Contents 7 0 R /MediaBox [ 0 0 100 100 ] /Parent 6 0 R /Resources <<
+/Contents 7 0 R /MediaBox [ 0 0 200 150 ] /Parent 6 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -27,8 +27,8 @@ endobj
 endobj
 5 0 obj
 <<
-/Author (anonymous) /CreationDate (D:20190427000058-08'00') /Creator (ReportLab PDF Library - www.reportlab.com) /Keywords () /ModDate (D:20190427000058-08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (unspecified) /Title (A simple PDF file) /Trapped /False
+/Author (anonymous) /CreationDate (D:20190427130733-08'00') /Creator (ReportLab PDF Library - www.reportlab.com) /Keywords () /ModDate (D:20190427130733-08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (unspecified) /Title (Sunspots) /Trapped /False
 >>
 endobj
 6 0 obj
@@ -38,10 +38,10 @@ endobj
 endobj
 7 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 215
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 204
 >>
 stream
-Gat%[Ymu@N%#4M'MVh-f_<Z[9W_kUm5ts;u,[_`b&0,qCO38,4-e#G:^S^s6Ji#qTh?mZ0Qpq3Vi"QlM!Vh0S$ci4Mjalm"2^c(D+YfT\E.Qs\c`DBT"NPY<1t0PPS:elL6m_%a;b3CJ[tZi=fGi/Uj_@oaHM+u#-Y`$IT3$Hg+,0!`n\/VE8GShciP+%m>*fmZAZauYn$A38L_jt(8O<~>endstream
+Gar?+_$\%5&4H!_ME.\lQq`dsZ_2np;>2E/'FTVp[>M_;)H'9[9>]h&R+Wc6?PMp,"j@k5-%RoJ!]&2S2d!;?4EE)5RFFGrd3;YZ=Ttr^g:sf8rUt'Ii"A.dKsdR[PYe(,XZV+1a4d.`*0-V]j56Wq@S)8nFFTYYrCa*(_RpUuP&=Y]jHS_KB$Q"LVJ@J^D*pU:!/-8!qu~>endstream
 endobj
 xref
 0 8
@@ -51,12 +51,12 @@ xref
 0000000213 00000 n 
 0000000406 00000 n 
 0000000474 00000 n 
-0000000779 00000 n 
-0000000838 00000 n 
+0000000770 00000 n 
+0000000829 00000 n 
 trailer
 <<
 /ID 
-[<07c66462aef945c948ddbaab2999a526><07c66462aef945c948ddbaab2999a526>]
+[<cccc59d4bcd3cb6fa355da99938c934d><cccc59d4bcd3cb6fa355da99938c934d>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 5 0 R
@@ -64,5 +64,5 @@ trailer
 /Size 8
 >>
 startxref
-1143
+1123
 %%EOF

@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="134f4360-9039-4e78-84f1-72768b09e9ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ximalaya/ximalaya.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ac_qq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/get_pic.py" beforeDir="false" afterPath="$PROJECT_DIR$/pic/get_pic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pic/log.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/ximalaya/ximalaya.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="e#190#205#0" expanded="true" />
               </folding>
@@ -76,8 +80,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-483" />
-    <option name="y" value="246" />
+    <option name="x" value="-202" />
+    <option name="y" value="166" />
     <option name="width" value="1711" />
     <option name="height" value="893" />
   </component>
@@ -250,9 +254,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-483" y="246" width="1711" height="893" extended-state="0" />
+    <frame x="-202" y="166" width="1711" height="893" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11932162" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12053301" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -265,7 +269,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4989339" weight="0.32939914" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49788007" weight="0.28047183" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5027256" side_tool="true" visible="true" weight="0.3530962" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5027256" side_tool="true" visible="true" weight="0.3530962" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4989339" weight="0.32939914" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -331,7 +335,7 @@
     <entry file="file://$PROJECT_DIR$/ximalaya/ximalaya.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="e#190#205#0" expanded="true" />
           </folding>
