@@ -1,4 +1,4 @@
-from pprint import pprint
+#from pprint import pprint
 ten_things =  "Apples Oranges Crows Telephone Light Sugar"
 
 print("Wait there are not 10 things in that list. Let's fix that.")
@@ -9,7 +9,7 @@ more_stuff = ["Day", "Night", "Song", "Frisbee", "Corn", "Banana", "Girl", "Boy"
 
 while len(stuff) !=10:
     next_one = more_stuff.pop()
-    pprint(stuff)
+    #pprint(stuff)
     print("Adding: ",next_one)
     stuff.append(next_one)
     print(f"There are {len(stuff)} items now.")
