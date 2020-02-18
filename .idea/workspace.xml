@@ -1,40 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="134f4360-9039-4e78-84f1-72768b09e9ad" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="134f4360-9039-4e78-84f1-72768b09e9ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/ipch/cac0885cc58d2547/PALINDROME_WRAP.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/ipch/cac0885cc58d2547/mmap_address.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ximalaya/ximalaya.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-483">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#190#205#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,69 +25,23 @@
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/fetchpic/fetchpic.py" />
-        <option value="$PROJECT_DIR$/ximalaya/ximalaya.py" />
-        <option value="$PROJECT_DIR$/ex51/templates/index.html" />
-        <option value="$PROJECT_DIR$/ex51/app.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-82" />
-    <option name="width" value="1711" />
-    <option name="height" value="1057" />
-  </component>
+  <component name="ProjectId" id="1OaQ5VKMt1If7Cd68SZxKWqhkG6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="ximalaya" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Course" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\Project\script\python" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.ximalaya">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -227,6 +159,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -254,67 +198,48 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16859852" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4985119" weight="0.32903227" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4910432" weight="0.43240345" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49736565" weight="0.32725322" />
-      <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49789253" weight="0.32939914" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49683878" weight="0.28004292" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5089568" side_tool="true" visible="true" weight="0.33476394" />
-      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4963119" weight="0.32832617" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="R Graphics" order="5" />
-      <window_info anchor="right" id="R Packages" order="6" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ex11.py" />
-    <entry file="file://$PROJECT_DIR$/ex8.py" />
-    <entry file="file://$PROJECT_DIR$/ex18.py" />
-    <entry file="file://$PROJECT_DIR$/ex10.py" />
-    <entry file="file://$PROJECT_DIR$/ex21/sunspots_proto.py" />
-    <entry file="file://$PROJECT_DIR$/ex21/Predict.txt" />
-    <entry file="file://$PROJECT_DIR$/qidian/fetchnovel.py" />
-    <entry file="file://$PROJECT_DIR$/fetchpic/fetchpic.py" />
-    <entry file="file://$PROJECT_DIR$/ex21/sunspots.py" />
-    <entry file="file://$PROJECT_DIR$/ex51/app.py" />
-    <entry file="file://$PROJECT_DIR$/ex51/templates/hello_form.html" />
-    <entry file="file://$PROJECT_DIR$/ex51/templates/index.html" />
-    <entry file="file://$PROJECT_DIR$/ximalaya/ximalaya.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-483">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#190#205#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="552" y="184" key="#Updates" timestamp="1577536370147">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#Updates/0.0.1920.1050@0.0.1920.1050" timestamp="1577536370147" />
+    <state x="668" y="138" key="#ximalaya" timestamp="1581241200995">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="668" y="138" key="#ximalaya/0.0.1920.1050@0.0.1920.1050" timestamp="1581241200995" />
+    <state width="1005" height="596" key="GridCell.Tab.0.bottom" timestamp="1581241297971">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1005" height="596" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1581241297971" />
+    <state width="1005" height="596" key="GridCell.Tab.0.center" timestamp="1581241297971">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1005" height="596" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1581241297971" />
+    <state width="1005" height="596" key="GridCell.Tab.0.left" timestamp="1581241297971">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1005" height="596" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1581241297971" />
+    <state width="1005" height="596" key="GridCell.Tab.0.right" timestamp="1581241297971">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1005" height="596" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1581241297971" />
+    <state x="461" y="167" key="SettingsEditor" timestamp="1581241296006">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="167" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1581241296006" />
   </component>
   <component name="masterDetails">
     <states>
